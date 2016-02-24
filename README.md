@@ -1,2 +1,5 @@
 # hello-world
-one for learning
+
+Hello everyone!
+
+Here's one, who wants to learn coding:)
